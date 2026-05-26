@@ -1,9 +1,21 @@
-### Hi there 👋, my name is Ahmet
-I am student of software engineering.
+### Hi there! I'm Ahmet Yakut 👋
 
-Skills: Python
+I am a Software Engineering student passionate about building scalable and efficient software solutions. I enjoy diving into backend development, database management, and cybersecurity.
 
+- Tech Stack: **C#, Python, MSSQL, Docker, Linux.**
+- Always looking for opportunities to contribute to open-source projects or learn new technologies.
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmetykt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ahmett_ykt/)  
+###  Technical Skills
 
+* **Backend:** C#, .NET (ASP.NET Core), Python
+* **Database:** MSSQL, SQL Server Management Studio
+* **Tools & OS:** Git/GitHub, Docker, Linux, Bash Scripting
+* **Security:** Ethical Hacking, CTF challenges (Siber Vatan)
+
+---
+
+### How to reach me
+
+* **LinkedIn:** [Ahmet Yakut](https://www.linkedin.com/in/ahmet-yakut-8a978b364)
