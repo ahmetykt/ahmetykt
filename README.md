@@ -10,8 +10,6 @@ I am a Software Engineering student passionate about building scalable and effic
 * **Backend:** C#, .NET (ASP.NET Core), Python
 * **Database:** MSSQL, SQL Server Management Studio
 * **Tools & OS:** Git/GitHub, Docker, Linux, Bash Scripting
-* **Security:** Ethical Hacking, CTF challenges (Siber Vatan)
-
 ---
 
 ### How to reach me
