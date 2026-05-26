@@ -1,8 +1,6 @@
 ### Hi there! I'm Ahmet Yakut 👋
 
 I am a Software Engineering student passionate about building scalable and efficient software solutions. I enjoy diving into backend development, database management, and cybersecurity.
-
-- Tech Stack: **C#, Python, MSSQL, Docker, Linux.**
 - Always looking for opportunities to contribute to open-source projects or learn new technologies.
 
 ---
